@@ -1,0 +1,24 @@
+{
+  "name": "carwash",
+  "version": "1.0.0",
+  "description": "This is a carwash website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anelehoza/mordern_carwash.git"
+  },
+  "author": "anele hoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anelehoza/mordern_carwash/issues"
+  },
+  "homepage": "https://github.com/anelehoza/mordern_carwash#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "jquery": "^3.6.1",
+    "node": "^18.9.0"
+  }
+}
